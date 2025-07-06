@@ -1,9 +1,23 @@
 <div style="background-image: url('/assets/img/bh_spacetime.png'); background-size: cover; background-position: center; padding: 80px 100px 100px 100px; text-align: center; position: relative;">
-  <h2 style="color: white; margin-top: -10px;">Welcome</h2>
+  <h1 style="color: white; margin-top: -15px;">Welcome</h1>
 </div>
 
-<p>Hello, my name is Enrique Gaztanaga. I'm <a href="https://www.port.ac.uk/news-events-and-blogs/news/portsmouth-professor-awarded-freedom-of-the-city-of-london" style="color: #007bff;">
-  Professor at the Institute of Cosmology and Gravitation (University of Portsmouth, UK)</a> and the <a href="https://www.ice.csic.es/?view=article&id=576&catid=8" style="color: #007bff;"> Institute of Space Sciences (CSIC, IEEC, Barcelona)</a>. I teach undergraduate and post graduate Physics, Astrophysics and Cosmology and have co-led hundreds of peer-reviewed publications in Cosmology, Physics, and Astrophysics. I work both on theoretical and observational topics and have helped build and analyze several international Cosmic Experiments (SDSS, 2dFGRS, Planck, DES, PAUS, DESI, Euclid, LSST, ARRAKIHS).</p>
+<p>
+  Hello — my name is Enrique Gaztanaga. I'm a 
+  <a href="https://www.port.ac.uk/news-events-and-blogs/news/portsmouth-professor-awarded-freedom-of-the-city-of-london" style="color: #007bff;">
+    Professor at the Institute of Cosmology and Gravitation (University of Portsmouth, UK)</a> and also affiliated with the 
+  <a href="https://www.ice.csic.es/?view=article&id=576&catid=8" style="color: #007bff;">Institute of Space Sciences (CSIC, IEEC, Barcelona)</a>.
+</p>
 
-<p>You can find below some posts about the Black Hole Universe, a concept that can help us late time undestand the  <a href="darkcosmos.com" style="color: #007bff;"> dark cosmos</a>,  cosmic acceleration, early time cosmic inflation and some other anomalies in the standard model of Cosmology. <br>
-You can <a href="/papers" style="color: #007bff;">link to more technical papers here</a> (and reference therein).</p>
+<p>
+  I teach undergraduate and postgraduate courses in Physics, Astrophysics, and Cosmology, and have co-authored hundreds of peer-reviewed publications. My research spans both theoretical and observational fronts, and I have contributed to the design and analysis of several major international cosmology projects — including SDSS, 2dFGRS, Planck, DES, PAUS, DESI, Euclid, LSST, and ARRAKIHS.
+</p>
+
+<p>
+  This blog shares ideas and results around the <strong>Black Hole Universe</strong> — a new framework that may shed light on the 
+  <a href="https://darkcosmos.com" style="color: #007bff;">dark cosmos</a>, cosmic acceleration, early-universe inflation, and other open questions in standard cosmology.
+</p>
+
+<p>
+  You’ll find posts and explanations below. For a deeper dive, you can <a href="/papers" style="color: #007bff;">explore the technical papers here</a>.
+</p>
