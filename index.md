@@ -1,3 +1,11 @@
+<div style="background-image: url('/assets/img/bh_spacetime.png'); background-size: cover; background-position: center; padding: 100px; color: white;">
+
+# Your Post Title
+
+Your text here will be on top of the background image.
+
+</div>
+
 ---
 layout: home
 title: The Black Hole Universe
