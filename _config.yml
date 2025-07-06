@@ -1,0 +1,6 @@
+title: Dark Cosmos
+description: Thoughts on the Universe
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
