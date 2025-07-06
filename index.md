@@ -19,5 +19,5 @@
 </p>
 
 <p>
-  You’ll find posts and explanations below. For a deeper dive, you can <a href="/papers" style="color: #007bff;">explore the technical papers here</a>.
+  You’ll find posts and explanations below. For a deeper dive, you can <a href="[/papers](https://ui.adsabs.harvard.edu/search/q=docs(9474fcb8b35882071a6cbabe13d8d042)&sort=date%20desc%2C%20bibcode%20desc&p_=0)" style="color: #007bff;">explore the technical papers here</a>.
 </p>
