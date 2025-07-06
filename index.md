@@ -1,5 +1,5 @@
 <div style="background-image: url('/assets/img/bh_spacetime.png'); background-size: cover; background-position: center; padding: 80px 100px 100px 100px; text-align: center; position: relative;">
-  <h1 style="color: white; margin-top: -15px;">Welcome</h1>
+  <h1 style="color: white; margin-top: -15px;">Welcome ---- </h1>
 </div>
 
 <p>
