@@ -1,0 +1,105 @@
+---
+layout: post
+title: "The History of the Black Hole Universe"
+description: "A cosmological model where the observable universe emerges from the gravitational collapse and bounce inside a black hole."
+date: 2025-08-10
+categories: cosmology physics
+math: true
+---
+
+![Diagram comparing the Big Bang expansion (left) to the Black Hole Universe one (right). A finite region of homogeneous matter collapses and bounces without forming a singularity, leading to expansion. The interior follows FLRW evolution; the exterior is empty Schwarzschild.](Black_Hole_Universe_Model.png){:width="350px" .align-right}
+
+The **Black Hole Universe** (**BHU**) is a cosmological model proposing that the observable universe originates from the gravitational collapse — and subsequent bounce — of a large cloud of matter formed in a parent universe. The model incorporates an exact solution to Einstein's field equations that includes quantum degeneracy pressure, resulting in non-singular black hole formation and a bounce followed by expansion. It provides an alternative to classical Big Bang singularity models and accounts for both early- and late-time cosmic acceleration without modifying general relativity or introducing additional hypothetical components.
+
+## History and versions
+
+The term "Black Hole Universe" sometimes refers to a universe made of black holes <a id="cite_ref-1" href="#ref-1">[1]</a>. Here, it refers to a cosmological model where our observable universe is inside a black hole. This should not be confused with studies of the interior of a Schwarzschild black hole <a id="cite_ref-2" href="#ref-2">[2]</a>.
+
+Early precursors to the BHU idea include models with spherical symmetry and a homogeneous, finite patch of matter in empty space <a id="cite_ref-3" href="#ref-3">[3]</a>–<a id="cite_ref-5" href="#ref-5">[5]</a>. These are mathematically analogous to the Newtonian spherical collapse model. Classic examples include Lemaître (1933) <a id="cite_ref-6" href="#ref-6">[6]</a>, Tolman (1934) <a id="cite_ref-7" href="#ref-7">[7]</a>, and Oppenheimer & Snyder (1939) <a id="cite_ref-8" href="#ref-8">[8]</a>, which describe the gravitational collapse of a finite, homogeneous, spherically symmetric cloud, applying a FLRW metric in the interior matched to an external Schwarzschild vacuum solution. Related works include those of Bondi (1947), Misner & Sharp (1964), Vaidya (1968), and Hawking (1968). Although they describe both expanding and collapsing solutions, all lead inevitably to a past or future singularity <a id="cite_ref-9" href="#ref-9">[9]</a>.
+
+In the 1970s, Pathria <a id="cite_ref-10" href="#ref-10">[10]</a> and Good <a id="cite_ref-11" href="#ref-11">[11]</a> independently proposed that our expanding universe might lie inside a black hole. While suggestive, these ideas were not based on exact solutions and remained speculative <a id="cite_ref-12" href="#ref-12">[12]</a>. Further developments explored nonsingular bounces in modified gravity theories <a id="cite_ref-13" href="#ref-13">[13]</a>–<a id="cite_ref-16" href="#ref-16">[16]</a>, as well as connections to cyclic cosmology (though the BHU is not cyclic, since matter cannot escape the event horizon to repeat a cycle <a id="cite_ref-5" href="#ref-5">[5]</a>).
+
+In 1994, Stuckey proposed an exact GR solution for expansion inside a black hole <a id="cite_ref-17" href="#ref-17">[17]</a>, though with past singularities like the Big Bang and without a cosmological constant.
+
+## Exact solution
+
+A modern version of the BHU model, as a solution to GR, was introduced in 2021–2025 <a id="cite_ref-18" href="#ref-18">[18]</a>, <a id="cite_ref-19" href="#ref-19">[19]</a>. It presents an exact analytical FLRW solution <a id="cite_ref-6" href="#ref-6">[6]</a> with quantum degeneracy pressure that avoids singularities and explains cosmic inflation as part of the same purely gravitational process.
+
+Near the bounce point (\(\tau = 0\)), the physical radius \(R(\tau)\) of the collapsing cloud follows:
+
+\[
+R(\tau) = R_B \cosh\left(\frac{\tau}{R_B}\right) = \frac{R_B}{2} \left[ e^{-\tau/R_B} + e^{+\tau/R_B} \right],
+\]
+
+where:
+
+\[
+R_B \equiv \sqrt{\frac{3}{8 \pi G \rho_G}},
+\]
+
+and \(\rho_G\) is the ground-state density of degenerate matter, comparable to the nuclear saturation density of a neutron star.
+
+After the bounce, this solution reproduces cosmic inflation (\(R \sim e^{+\tau/R_B}\)) without requiring additional fields or mechanisms. The accelerated expansion naturally ends when the system leaves the ground state <a id="cite_ref-19" href="#ref-19">[19]</a>.
+
+The BHU assumes the FLRW metric describes a finite, spherical overdensity embedded within a larger background spacetime. This overdensity leads to positive spatial curvature, making the interior spatial hypersurfaces compact. This violates a key assumption of the Penrose–Hawking singularity theorems <a id="cite_ref-9" href="#ref-9">[9]</a>, allowing a non-singular bounce.
+
+The bounce remains entirely within the initial gravitational radius:
+
+\[
+r_S = 2GM,
+\]
+
+which acts effectively as a cosmological constant \(\Lambda\) for interior observers. Inside this radius, the geometry satisfies:
+
+\[
+r_S = \sqrt{\frac{3}{\Lambda}}.
+\]
+
+To external observers in the parent universe, the structure appears as a Schwarzschild black hole.
+
+## Geometry and dynamics
+
+The BHU uses a closed FLRW metric for the interior and a Schwarzschild vacuum for the exterior <a id="cite_ref-17" href="#ref-17">[17]</a>. The boundary is an apparent horizon, and the bounce occurs entirely within it. The solution is time-symmetric near the bounce, with a well-defined thermodynamic arrow of time. This addresses the entropy problem raised by Penrose <a id="cite_ref-20" href="#ref-20">[20]</a>, who noted that the low entropy of the Big Bang is not explained by inflation alone.
+
+Unlike cyclic models, the expansion asymptotically approaches a de Sitter phase <a id="cite_ref-21" href="#ref-21">[21]</a> — effectively static to a non-comoving observer.
+
+## Implications
+
+The BHU implies that black holes might give rise to new universes, suggesting a recursive cosmological hierarchy <a id="cite_ref-11" href="#ref-11">[11]</a>. It avoids cosmological singularities and provides a geometric origin for inflation and dark energy without invoking exotic matter or modifications to GR <a id="cite_ref-19" href="#ref-19">[19]</a>.
+
+Predictions include:
+
+- Small positive spatial curvature  
+- A cutoff in the scale-invariant spectrum of density perturbations (observable as CMB anisotropies)  
+- A possible preferred spin direction for galaxies if the parent black hole had rotation <a id="cite_ref-22" href="#ref-22">[22]</a>  
+
+## Popular coverage
+
+- [The Conversation: *What if the Big Bang wasn’t the beginning?*](https://theconversation.com/what-if-the-big-bang-wasnt-the-beginning-our-research-suggests-it-may-have-taken-place-inside-a-black-hole-258010) (June 2025)  
+- [Scientific American: *Do We Live Inside a Black Hole?*](https://www.scientificamerican.com/article/do-we-live-inside-a-black-hole) (April 2025)  
+- [Altmetric media coverage](https://aps.altmetric.com/details/177630151/news)  
+
+## References
+
+1. <a id="ref-1" href="#cite_ref-1">↩</a> Yoo, C. M.; Okawa, H.; Nakao, K. I. *Phys. Rev. Lett.* **111** (2013): 161102. doi:[10.1103/PhysRevLett.111.161102](https://doi.org/10.1103/PhysRevLett.111.161102)  
+2. <a id="ref-2" href="#cite_ref-2">↩</a> Doran, R.; Lobo, F. S. N.; Crawford, P. *Found. Phys.* **38** (2008): 160–187. doi:[10.1007/s10701-007-9197-6](https://doi.org/10.1007/s10701-007-9197-6)  
+3. <a id="ref-3" href="#cite_ref-3">↩</a> Faraoni, V. *Gen. Relativ. Gravit.* **47** (2015): 84. doi:[10.1007/s10714-015-1926-0](https://doi.org/10.1007/s10714-015-1926-0)  
+4. <a id="ref-4" href="#cite_ref-4">↩</a> Faraoni, V.; Atieh, F. *Phys. Rev. D* **102** (2020): 044020. doi:[10.1103/PhysRevD.102.044020](https://doi.org/10.1103/PhysRevD.102.044020)  
+5. <a id="ref-5" href="#cite_ref-5">↩</a> Gaztañaga, E. *Symmetry* **14** (2022): 1849. doi:[10.3390/sym14091849](https://doi.org/10.3390/sym14091849)  
+6. <a id="ref-6" href="#cite_ref-6">↩</a> Lemaître, G. *Ann. Soc. Sci. Bruxelles* **A53** (1933): 51–85.  
+7. <a id="ref-7" href="#cite_ref-7">↩</a> Tolman, R. C. *Proc. Natl. Acad. Sci. USA* **20** (1934): 169–176. doi:[10.1073/pnas.20.3.169](https://doi.org/10.1073/pnas.20.3.169)  
+8. <a id="ref-8" href="#cite_ref-8">↩</a> Oppenheimer, J. R.; Snyder, H. *Phys. Rev.* **56** (1939): 455–459. doi:[10.1103/PhysRev.56.455](https://doi.org/10.1103/PhysRev.56.455)  
+9. <a id="ref-9" href="#cite_ref-9">↩</a> Hawking, S.; Ellis, G. F. R. *The Large Scale Structure of Space-Time.* Cambridge University Press (1973). ISBN 0-521-09906-4.  
+10. <a id="ref-10" href="#cite_ref-10">↩</a> Pathria, R. K. *Nature* **240** (1972): 298–299. doi:[10.1038/240298a0](https://doi.org/10.1038/240298a0)  
+11. <a id="ref-11" href="#cite_ref-11">↩</a> Good, I. J. *Phys. Today* **25** (1972): 15. doi:[10.1063/1.3070923](https://doi.org/10.1063/1.3070923)  
+12. <a id="ref-12" href="#cite_ref-12">↩</a> Knutsen, H. *Gravitation and Cosmology* **15** (2009): 273–277. doi:[10.1134/S0202289309030128](https://doi.org/10.1134/S0202289309030128)  
+13. <a id="ref-13" href="#cite_ref-13">↩</a> Easson, D. A.; Brandenberger, R. H. *J. High Energy Phys.* **2001** (6): 024. doi:[10.1088/1126-6708/2001/06/024](https://doi.org/10.1088/1126-6708/2001/06/024)  
+14. <a id="ref-14" href="#cite_ref-14">↩</a> Popławski, N. J. *Phys. Lett. B* **687** (2010): 110–113. doi:[10.1016/j.physletb.2010.03.029](https://doi.org/10.1016/j.physletb.2010.03.029)  
+15. <a id="ref-15" href="#cite_ref-15">↩</a> Oshita, N.; Yokoyama, J. *Phys. Lett. B* **785** (2018): 197–200. doi:[10.1016/j.physletb.2018.08.050](https://doi.org/10.1016/j.physletb.2018.08.050)  
+16. <a id="ref-16" href="#cite_ref-16">↩</a> Zhang, T. X. *J. Mod. Phys.* **9** (2018): 1838–1865. doi:[10.4236/jmp.2018.99117](https://doi.org/10.4236/jmp.2018.99117)  
+17. <a id="ref-17" href="#cite_ref-17">↩</a> Stuckey, W. M. *Am. J. Phys.* **62** (1994): 788–795. doi:[10.1119/1.17460](https://doi.org/10.1119/1.17460)  
+18. <a id="ref-18" href="#cite_ref-18">↩</a> Gaztañaga, E. *Universe* **8** (2022): 257. doi:[10.3390/universe8050257](https://doi.org/10.3390/universe8050257)  
+19. <a id="ref-19" href="#cite_ref-19">↩</a> Gaztañaga, E.; Kumar, K. S.; Pradhan, S.; Gabler, M. *Phys. Rev. D* **111** (2025): 103537. doi:[10.1103/PhysRevD.111.103537](https://doi.org/10.1103/PhysRevD.111.103537)  
+20. <a id="ref-20" href="#cite_ref-20">↩</a> Penrose, R. *Cycles of Time: An Extraordinary New View of the Universe.* Bodley Head (2010). ISBN 978-0224080361.  
+21. <a id="ref-21" href="#cite_ref-21">↩</a> Krauss, L. M.; Scherrer, R. J. *Gen. Relativ. Gravit.* **39** (2007): 1545–1550. doi:[10.1007/s10714-007-0472-9](https://doi.org/10.1007/s10714-007-0472-9)  
+22. <a id="ref-22" href="#cite_ref-22">↩</a> Shamir, L. *Mon. Not. R. Astron. Soc.* **538** (2025): 76–91. doi:[10.1093/mnras/staf292](https://doi.org/10.1093/mnras/staf292)  
